@@ -1,11 +1,7 @@
 
 
 <!--
-**VaishnaviChellappa/VaishnaviChellappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,17 +10,42 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+![Divider](https://user-images.githubusercontent.com/30112376/152734312-fb10c23b-531c-4e14-915d-e7f8ff4ffb79.png)
+
+🚀 **"Transforming ideas into impactful, data-driven solutions."**
+---
 
 ### Hi there 👋, I'm **Vaishnavi Chellappa**  
 🎓 **Master's in Computer Science @ NYU** | 💼 **Aspiring Software Engineer | Data Scientist**  
 🌟 Passionate about solving real-world problems with AI, machine learning, and scalable software solutions.  
 
 ---
+## 🚀 **About Me**
+Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in **Machine Learning, Software Development**, and building scalable applications. Whether it's optimizing predictions for **AI systems** or developing **web-based platforms**, I thrive on solving complex problems with innovative solutions.  
+
+💡 *What sets me apart?*  
+- A strong academic foundation in **Computer Science** 🏫  
+- Professional experience at **Oracle, Citigroup, Capgemini**, and innovative startups 🌐  
+- Passion for combining **Data Science, AI**, and user-driven development 💻  
+
+---
+
 
 ### 🚀 **Technical Skills**  
 - **Languages**: Java | Python | C | C++ | Dart | SQL | JavaScript | TypeScript | Bash  
 - **Frameworks & Libraries**: Flask | Spring Boot | Flutter | OpenCV | MERN Stack  
 - **Tools & Platforms**: Git | Tableau | IBM Cognos Analytics | Apache Spark | Kafka | Docker | Oracle DB | MySQL | MongoDB  
+
+---
+## 🛠️ **Technical Skills**
+
+| **Languages**        | **Frameworks & Tools**          | **Databases**          | **Platforms**       |
+|-----------------------|---------------------------------|------------------------|---------------------|
+| Python, Java, C++     | Flask, Spring Boot, React.js    | MySQL, MongoDB         | AWS, IBM Cognos     |
+| JavaScript, TypeScript| Angular, Node.js, MERN Stack    | Apache Spark, Kafka    | Oracle Cloud, Git   |
+| Bash, Dart            | OpenCV, WebGL                  | Cassandra, ORION ERP   | Tableau, Three.js   |
 
 ---
 
@@ -70,8 +91,8 @@ Here are some ideas to get you started:
 ---
 
 ### 🎓 **Education**  
-- **New York University** (M.S. in Computer Science, CGPA: 3.667)  
-- **Anna University** (B.E. in Computer Science and Engineering, CGPA: 8.81)  
+- **New York University** (M.S. in Computer Science)  
+- **Anna University** (B.E. in Computer Science and Engineering)  
 
 ---
 
@@ -85,6 +106,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavichellappa/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vc2495@nyu.edu)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green)](https://yourportfolio.com)  
+
 
 ---
 
