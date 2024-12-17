@@ -12,7 +12,7 @@
 -->
 ---
 
-✨ **Transforming ideas into impactful, data-driven solutions.**✨
+✨ _Transforming ideas into impactful, data-driven solutions._ ✨
 ---
 
 ## Hi there 👋, I'm **Vaishnavi Chellappa**  
