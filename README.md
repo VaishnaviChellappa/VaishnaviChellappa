@@ -12,16 +12,16 @@
 -->
 ---
 
-🚀 **"Transforming ideas into impactful, data-driven solutions."**
+✨ **Transforming ideas into impactful, data-driven solutions.**✨
 ---
 
-### Hi there 👋, I'm **Vaishnavi Chellappa**  
+## Hi there 👋, I'm **Vaishnavi Chellappa**  
 🎓 **Master's in Computer Science @ NYU** | 💼 **Aspiring Software Engineer | Data Scientist**  
 🌟 Passionate about solving real-world problems with AI, machine learning, and scalable software solutions.  
 
 ---
 ## 🚀 **About Me**
-Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in **Machine Learning, Software Development**, and building scalable applications. Whether it's optimizing predictions for **AI systems** or developing **web-based platforms**, I thrive on solving complex problems with innovative solutions.  
+I'm a **tech enthusiast** with hands-on experience in **Machine Learning, Software Development**, and building scalable applications. Whether it's optimizing predictions for **AI systems** or developing **web-based platforms**, I thrive on solving complex problems with innovative solutions.  
 
 💡 *What sets me apart?*  
 - A strong academic foundation in **Computer Science** 🏫  
@@ -39,7 +39,7 @@ Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in 
 
 ---
 
-### 🛠️ **Highlighted Projects**  
+## 👩🏻‍💻 **Highlighted Projects**  
 
 #### 🩺 **Elderly Care Using Fall Detection System** *(YOLO, OpenPose, Audio Toolbox)*  
 - Developed a real-time fall detection system for the elderly, combining YOLO and OpenPose for object detection.  
@@ -58,7 +58,7 @@ Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in 
 
 ---
 
-### 💼 **Work Experience**  
+## 💼 **Work Experience**  
 
 - **Oracle America, Inc.** *(Software Engineer Intern)*  
   - Enhanced NLP response time for financial queries by **25%**.  
@@ -74,25 +74,19 @@ Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in 
 
 ---
 
-### 📈 **GitHub Stats**  
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavichellappa&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavichellappa&layout=compact&theme=dark)  
-
----
-
-### 🎓 **Education**  
+## 🎓 **Education**  
 - **New York University** (M.S. in Computer Science)  
 - **Anna University** (B.E. in Computer Science and Engineering)  
 
 ---
 
-### 🌟 **Certifications & Interests**  
+## 🌟 **Certifications & Interests**  
 - **AI & ML Algorithms** | **Data Analytics** | **Medical Imaging** | **Software Development**  
 - 🎯 Exploring **Big Data** and **Generative AI** solutions.
 
 ---
 
-### 🌐 **Connect with Me**  
+## 🌐 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavichellappa/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vc2495@nyu.edu)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green)](https://yourportfolio.com)  
@@ -103,6 +97,12 @@ Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in 
 ### 🚀 **What I’m Currently Working On**  
 - Fine-tuning machine learning models for data prediction and visualization.  
 - Exploring AI solutions to solve complex, real-world challenges.  
+
+---
+
+## 📈 **GitHub Stats**  
+![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavichellappa&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavichellappa&layout=compact&theme=dark)  
 
 ---
 
