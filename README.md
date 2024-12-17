@@ -12,8 +12,6 @@
 -->
 ---
 
-![Divider](https://user-images.githubusercontent.com/30112376/152734312-fb10c23b-531c-4e14-915d-e7f8ff4ffb79.png)
-
 🚀 **"Transforming ideas into impactful, data-driven solutions."**
 ---
 
@@ -29,14 +27,6 @@ Hi there! 👋 I'm Vaishnavi, a **tech enthusiast** with hands-on experience in 
 - A strong academic foundation in **Computer Science** 🏫  
 - Professional experience at **Oracle, Citigroup, Capgemini**, and innovative startups 🌐  
 - Passion for combining **Data Science, AI**, and user-driven development 💻  
-
----
-
-
-### 🚀 **Technical Skills**  
-- **Languages**: Java | Python | C | C++ | Dart | SQL | JavaScript | TypeScript | Bash  
-- **Frameworks & Libraries**: Flask | Spring Boot | Flutter | OpenCV | MERN Stack  
-- **Tools & Platforms**: Git | Tableau | IBM Cognos Analytics | Apache Spark | Kafka | Docker | Oracle DB | MySQL | MongoDB  
 
 ---
 ## 🛠️ **Technical Skills**
