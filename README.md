@@ -89,7 +89,7 @@ I'm a **tech enthusiast** with hands-on experience in **Machine Learning, Softwa
 ## 🌐 **Connect with Me**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavichellappa/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vc2495@nyu.edu)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-green)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-green)](https://vaishnavichellappa.github.io/)  
 
 
 ---
