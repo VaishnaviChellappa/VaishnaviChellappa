@@ -9,13 +9,14 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
----
 
 ✨ _Transforming ideas into impactful, data-driven solutions._ ✨
 ---
+-->
+---
 
-## Hi there 👋, I'm **Vaishnavi Chellappa**  
+
+## Hi there 👋, I'm **Vaishnavi Chellappa**!  
 🎓 **Master's in Computer Science @ NYU** | 💼 **Aspiring Software Engineer | Data Scientist**  
 🌟 Passionate about solving real-world problems with AI, machine learning, and scalable software solutions.  
 
@@ -61,16 +62,12 @@ I'm a **tech enthusiast** with hands-on experience in **Machine Learning, Softwa
 ## 💼 **Work Experience**  
 
 - **Oracle America, Inc.** *(Software Engineer Intern)*  
-  - Enhanced NLP response time for financial queries by **25%**.  
-  - Improved ML accuracy through systematic data distribution analysis.  
+- **Citigroup Inc. - Citi Technology Infrastructure** *(Summer Analyst Intern)*
+- **Capgemini Technology Services India Limited** *(Research Intern – Medical Imaging Solutions)*
+- **Fanisko** *(Software Development Engineer Intern)*
+- **Fahmy Furniture LLC** *(Software Engineer Intern)*
+- **Capgemini Technology Services India Limited** *(Software Development Engineer Intern)* 
 
-- **Citigroup Inc.** *(Summer Analyst Intern)*  
-  - Built a **Build Tracking and Reporting System (BTRS)** to reduce paperwork by **80%**.  
-  - Boosted user engagement by **25%** with Angular & Spring Boot enhancements.  
-
-- **Fanisko** *(SDE Intern)*  
-  - Designed a cross-platform application with **Flutter** and achieved a **95% user satisfaction rate**.  
-  - Improved image compression efficiency, reducing lag time by **3 seconds**.  
 
 ---
 
@@ -82,7 +79,7 @@ I'm a **tech enthusiast** with hands-on experience in **Machine Learning, Softwa
 
 ## 🌟 **Certifications & Interests**  
 - **AI & ML Algorithms** | **Data Analytics** | **Medical Imaging** | **Software Development**  
-- 🎯 Exploring **Big Data** and **Generative AI** solutions.
+- Exploring **Big Data** and **Generative AI** solutions.
 
 ---
 
